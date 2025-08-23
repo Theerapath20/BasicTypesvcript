@@ -34,6 +34,18 @@
 // interfaceAndType() 
 // -------------------------------------------------------- จบ 
 
-import { funcType } from './topics/function'
+// import { funcType } from './topics/function'
 
-funcType() 
+// funcType() 
+//-------------------------------------------------------------
+
+// import { class_object } from "./topics/class_object"
+
+// class_object()
+
+//-------------------------------
+
+import { generic } from "./topics/generic"
+
+generic()
+
