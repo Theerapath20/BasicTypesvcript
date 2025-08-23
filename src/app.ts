@@ -36,4 +36,4 @@
 
 import { funcType } from './topics/function'
 
-funcType()
+funcType() 

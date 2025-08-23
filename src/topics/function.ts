@@ -3,8 +3,8 @@ export const funcType = () => {
     return `Hello, ${title || ""} ${name}`;
   };
 
-  //   console.log(greet("T", "Mr."));
-  //   console.log(greet("john"));
+    console.log(greet("T", "Mr."));
+    console.log(greet("john"));
 
   // function แบบ REST
   const sum = (...number: number[]): number => {
