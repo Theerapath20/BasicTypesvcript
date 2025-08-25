@@ -31,21 +31,28 @@
 
 // import { interfaceAndType } from "./topics/interfaceAndType";
 
-// interfaceAndType() 
-// -------------------------------------------------------- จบ 
+// interfaceAndType()
+// -------------------------------------------------------- จบ
 
 // import { funcType } from './topics/function'
 
-// funcType() 
+// funcType()
 //-------------------------------------------------------------
 
 // import { class_object } from "./topics/class_object"
 
 // class_object()
 
-//-------------------------------
+//---------------------------------------------------------------------------------
 
-import { generic } from "./topics/generic"
+// import { generic } from "./topics/generic"
 
-generic()
+// generic()
+//---------------------------------------------------------------------------------
+// import { asyncPromise } from "./topics/async_promise";
 
+// asyncPromise();
+//----------------------------------------------------------------------------------
+import { asyncAwait } from "./topics/async_await";
+
+asyncAwait();
